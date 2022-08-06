@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>panel.qml</file>
+        <file>ToggleItem.qml</file>
+    </qresource>
+</RCC>
